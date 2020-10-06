@@ -5,9 +5,11 @@
 ## Description
 This project is my resume server sample that build with Nestjs framework.
 
-In this project MongoDB used as a database, Multer to upload images, JWT technic to Authentication, and it can serve SPA
+In this project MongoDB used as a database, Multer to upload images, JWT technic to Authentication, and it can serve SPA.
 
-you can define users, skills, projects, assign users to project, assign medias (both images and videos) to projects and manage messages from clients
+you can define users, skills, projects, assign users to project, assign medias (both images and videos) to projects and manage messages from clients.
+
+Swagger Api Document available in [http://localhost:3000/api/](http://localhost:3000/api/)
 
 for use this app you can read [Nesjs Doc](https://docs.nestjs.com/)
 ## Installation
